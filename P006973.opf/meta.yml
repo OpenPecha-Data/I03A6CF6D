@@ -7,11 +7,12 @@ source_metadata:
     '
   author: ''
   volumes:
-    6731ab98ba1a45a397a3610a15655b46:
+    1104c05d62b34b14996ddc2b8ee8e155:
       image_group_id: I1KG10856
-      title: ''
+      title: Volume 1 of bod rig pa'i tshig mdzod chen mo shes bya rab gsal
       volume_number: 1
       total_pages: 2583
+      base_file: v001.txt
 ebook_metadata:
   title: 'དུང་དཀར་ཚིག་མཛོད་ཆེན་མོ།
 
